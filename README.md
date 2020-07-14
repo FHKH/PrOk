@@ -8,7 +8,7 @@ Installation
 
 install :
 
-```https://github.com/TshAkEAb/TshAkE && cd TshAkE && chmod +x install.sh && ./install.sh```
+```https://github.com/FHKH/PrOk```
 
 ______________________________________________________________________________________________________________________
 
